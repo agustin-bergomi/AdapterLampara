@@ -1,0 +1,3 @@
+include ':Adapter'
+include ':app'
+rootProject.name = "AdapterLampara"
